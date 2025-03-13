@@ -17,5 +17,5 @@ Here is the real hookup guide.
 
 ## YouTube
 
-- Link 1
-- Link 2
+Lab 2 Demonstration
+https://drive.google.com/file/d/1OJkdHjcNFOn3wuj_TlwBGu7xLrdocRDd/view?usp=drive_link
